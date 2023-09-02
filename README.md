@@ -1,2 +1,2 @@
 # CrackingCodeInterview
-Java solutions to cracking the code interview book questions
+Java solutions to questions from cracking the code interview book 
